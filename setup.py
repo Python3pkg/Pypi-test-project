@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'mypackage',
-  packages = ['mypackage'], # this must be the same as the name above
+  name = 'mypackagetsrif',
+  packages = ['mypackagetsrif'], # this must be the same as the name above
   version = '0.1',
   description = 'A random test lib',
   author = 'Ujvala',
